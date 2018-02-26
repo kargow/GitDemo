@@ -12,6 +12,7 @@ namespace GitDemo
         protected void Page_Load(object sender, EventArgs e)
         {
             lblTime.Text = DateTime.Now.ToString();
+            lblMessage.Text = "Hello Nagendra";
         }
     }
 }

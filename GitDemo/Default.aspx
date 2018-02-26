@@ -12,6 +12,7 @@
     Hello GitHub.
         For test deployment.
         <asp:Label runat="server" Text="" ID="lblTime" />
+        <asp:Label runat="server" Text="" ID="lblMessage" />
     </div>
     </form>
 </body>
